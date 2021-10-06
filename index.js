@@ -5,5 +5,4 @@ app.get("/", (req, res) => {
   res.send({ show: "server is connected" });
 });
 
-const PORT = process.env.PORT || 5000;
 app.listen(5000);
