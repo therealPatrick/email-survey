@@ -30,3 +30,4 @@ production keys {
   client Secret: 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
 }
 */
+// https://www.quora.com/Can-I-crack-the-Google-interview-in-just-1-month-of-preparation-If-yes-then-how-I-just-know-the-basics-of-C-and-C%2B%2B/answer/Sung-Kim-18?share=6812970c&srid=mvQ9
